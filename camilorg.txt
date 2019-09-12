@@ -1,0 +1,2 @@
+install pycharm, from there create a virtual environment and 
+installed the packages with pip
