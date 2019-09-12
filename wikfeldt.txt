@@ -1,2 +1,5 @@
 pro-tip:
 "git commit -a" stages and commits all changes (but not new files)
+
+use "git branch -r" to show remote branches
+
